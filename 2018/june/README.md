@@ -61,7 +61,7 @@ xoo
 xxx
 ```
 
-Under this notation, our solution (see below)) contains {2 L1's, 1 L3, and 2 L4's} and {2 J1's, 1 J2, and 2 J4's}.
+Under this notation, our solution (see below) contains {2 L1's, 1 L3, and 2 L4's} and {2 J1's, 1 J2, and 2 J4's}.
 
 Consider a grid labelled in "1 + (modulo 4)" and how the orientation tile on it:
 ```
